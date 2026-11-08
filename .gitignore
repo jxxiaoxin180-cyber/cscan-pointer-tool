@@ -1,0 +1,12 @@
+build-*/
+data/
+cscan-data/
+node_modules/
+__pycache__/
+*.py[cod]
+*.part
+.DS_Store
+bin/cscan-linux-arm64
+artifacts/
+releases/
+*.zip
